@@ -6,7 +6,7 @@ I am currently studying at the Hamburg University of Technology (TUHH) and activ
 
 ### 🚀 About Me
 * 🔭 **Currently working on:** Expanding my knowledge in programming with various languages, tools and projects.
-* 🌱 **Currently learning:** C, Typescript & more.
+* 🌱 **Currently learning:** C, C++, Typescript & more.
 * 💼 **Looking for:** A working student role in Backend Development or Systems Engineering.
 * ⚡ **Fun fact:** I'm a big fan of terminal-based games.
 
