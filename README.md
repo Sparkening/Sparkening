@@ -1,4 +1,4 @@
-# Hi there, I'm Mika! 👋
+# Hello There, I'm Mika! 👋
 
 **Computer Science Student @ TUHH | Aspiring Software Developer**
 
